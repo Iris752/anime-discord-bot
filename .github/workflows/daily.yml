@@ -1,26 +1,21 @@
-
 name: Daily Anime Notification
-
 on:
   schedule:
-    - cron: '0 3 * * *'
+    - cron: '0 12 * * *'
       timezone: 'Asia/Tokyo'
   workflow_dispatch:
-
+permissions:
+  contents: read
 jobs:
   notify:
     runs-on: ubuntu-latest
+    timeout-minutes: 5
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
-      - name: Set up Python
-        uses: actions/setup-python@v5
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-
-      - name: Send Discord notification
+      - name: Post today's anime
         env:
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
-          TZ: Asia/Tokyo
         run: python bot.py
