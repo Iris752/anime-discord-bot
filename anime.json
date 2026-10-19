@@ -5,7 +5,8 @@
     "weekday": 6,
     "time": "16:30",
     "station": "TBS系全国28局",
-    "url": "https://aonohako-anime.com/"
+    "url": "https://aonohako-anime.com/",
+    "source": "https://www.animatetimes.com/tag/details.php?id=5947"
   },
   {
     "title": "貸した魔力は【リボ払い】で強制徴収",
@@ -13,7 +14,8 @@
     "weekday": 0,
     "time": "20:30",
     "station": "AT-X",
-    "url": "https://revo-anime.com/"
+    "url": "https://revo-anime.com/",
+    "source": "https://www.animatetimes.com/tag/details.php?id=5947"
   },
   {
     "title": "帰還者の魔法は特別です 第二期",
@@ -21,47 +23,57 @@
     "weekday": 2,
     "time": "24:45",
     "station": "フジテレビ",
-    "url": "https://returners-magic.com/"
+    "url": "https://returners-magic.com/",
+    "source": "https://www.animatetimes.com/tag/details.php?id=5947"
   },
   {
     "title": "凶乱令嬢ニア・リストン 病弱令嬢に転生した神殺しの武人の華麗なる無双録",
-    "enabled": false,
-    "weekday": null,
+    "enabled": true,
+    "weekday": 1,
     "time": null,
-    "station": "未確認",
-    "url": "https://kyoranreijo-pr.com/"
+    "station": "TOKYO MX・BS日テレほか",
+    "url": "https://kyoranreijo-pr.com/",
+    "start_date": "2026-10-06",
+    "source": "https://www.animatetimes.com/tag/details.php?id=5947"
   },
   {
     "title": "ごーすと・みーつ・ぎゃる！",
-    "enabled": false,
-    "weekday": null,
-    "time": null,
-    "station": "未確認",
-    "url": "https://cf-vanguard.com/anime-ghost_meets_gal/"
+    "enabled": true,
+    "weekday": 5,
+    "time": "08:00",
+    "station": "テレビ愛知・テレ東系列6局",
+    "url": "https://cf-vanguard.com/anime-ghost_meets_gal/",
+    "source": "https://www.animatetimes.com/tag/details.php?id=5947"
   },
   {
     "title": "サイバーパンク：エッジランナーズ2",
-    "enabled": false,
+    "enabled": true,
     "weekday": null,
     "time": null,
-    "station": "未確認",
-    "url": "https://www.cyberpunk.net/ja/edgerunners2"
+    "station": "Netflix",
+    "url": "https://www.cyberpunk.net/ja/edgerunners2",
+    "release_date": "2026-10-20",
+    "source": "https://www.animatetimes.com/tag/details.php?id=5947"
   },
   {
     "title": "佐々木とピーちゃん Season2",
-    "enabled": false,
-    "weekday": null,
+    "enabled": true,
+    "weekday": 2,
     "time": null,
-    "station": "未確認",
-    "url": "https://sasapi-anime.com/"
+    "station": "AT-X・TOKYO MXほか",
+    "url": "https://sasapi-anime.com/",
+    "start_date": "2026-10-07",
+    "source": "https://www.animatetimes.com/tag/details.php?id=5947"
   },
   {
     "title": "塩対応の佐藤さんが俺にだけ甘い",
-    "enabled": false,
-    "weekday": null,
+    "enabled": true,
+    "weekday": 1,
     "time": null,
-    "station": "未確認",
-    "url": "https://shioama-anime.com/"
+    "station": "TOKYO MXほか",
+    "url": "https://shioama-anime.com/",
+    "start_date": "2026-10-06",
+    "source": "https://www.animatetimes.com/tag/details.php?id=5947"
   },
   {
     "title": "死亡遊戯で飯を食う。44:CLOUDY BEACH",
@@ -69,31 +81,37 @@
     "weekday": null,
     "time": null,
     "station": "未確認",
-    "url": "https://shiboyugi-anime.com/"
+    "url": "https://shiboyugi-anime.com/",
+    "notes": "地上波放送は2026-09-25の単発枠。毎週の通知対象外",
+    "source": "https://www.animatetimes.com/tag/details.php?id=5947"
   },
   {
     "title": "信者ゼロの女神サマと始める異世界攻略",
-    "enabled": false,
-    "weekday": null,
+    "enabled": true,
+    "weekday": 6,
     "time": null,
-    "station": "未確認",
-    "url": "https://zero-believers-anime.com/"
+    "station": "BS朝日・TOKYO MXほか",
+    "url": "https://zero-believers-anime.com/",
+    "start_date": "2026-10-11",
+    "source": "https://www.animatetimes.com/tag/details.php?id=5947"
   },
   {
     "title": "生徒会にも穴はある！",
-    "enabled": false,
-    "weekday": null,
-    "time": null,
-    "station": "未確認",
-    "url": "https://nama-anaru.com/"
+    "enabled": true,
+    "weekday": 5,
+    "time": "24:30",
+    "station": "TOKYO MX・BS11",
+    "url": "https://nama-anaru.com/",
+    "source": "https://www.animatetimes.com/tag/details.php?id=5947"
   },
   {
     "title": "探偵はもう、死んでいる。Season2",
-    "enabled": false,
-    "weekday": null,
-    "time": null,
-    "station": "未確認",
-    "url": "https://tanmoshi-anime.jp/Season2/"
+    "enabled": true,
+    "weekday": 2,
+    "time": "22:30",
+    "station": "TOKYO MX",
+    "url": "https://tanmoshi-anime.jp/Season2/",
+    "source": "https://www.animatetimes.com/tag/details.php?id=5947"
   },
   {
     "title": "千歳くんはラムネ瓶のなか 第2クール",
@@ -101,94 +119,115 @@
     "weekday": 1,
     "time": "23:00",
     "station": "AT-X",
-    "url": "https://chiramune.com/"
+    "url": "https://chiramune.com/",
+    "source": "https://www.animatetimes.com/tag/details.php?id=5947"
   },
   {
     "title": "追放されたチート付与魔術師は気ままなセカンドライフを謳歌する。",
-    "enabled": false,
-    "weekday": null,
-    "time": null,
-    "station": "未確認",
-    "url": "https://sh-anime.shochiku.co.jp/chiifuyo-anime/"
+    "enabled": true,
+    "weekday": 1,
+    "time": "24:00",
+    "station": "テレ東系列",
+    "url": "https://sh-anime.shochiku.co.jp/chiifuyo-anime/",
+    "source": "https://www.animatetimes.com/tag/details.php?id=5947"
   },
   {
     "title": "テムパル～アイテムの力～",
-    "enabled": false,
-    "weekday": null,
+    "enabled": true,
+    "weekday": 4,
     "time": null,
-    "station": "未確認",
-    "url": "https://tempal-anime.net/"
+    "station": "TOKYO MX・BS11",
+    "url": "https://tempal-anime.net/",
+    "start_date": "2026-10-02",
+    "source": "https://www.animatetimes.com/tag/details.php?id=5947"
   },
   {
     "title": "デモンズ・クレスト",
-    "enabled": false,
+    "enabled": true,
     "weekday": null,
     "time": null,
-    "station": "未確認",
-    "url": "https://demonscrest-anime.com/"
+    "station": "Prime Video",
+    "url": "https://demonscrest-anime.com/",
+    "release_date": "2026-11-06",
+    "source": "https://www.animatetimes.com/tag/details.php?id=5947"
   },
   {
     "title": "転生貴族、鑑定スキルで成り上がる 第3期",
-    "enabled": false,
-    "weekday": null,
+    "enabled": true,
+    "weekday": 6,
     "time": null,
-    "station": "未確認",
-    "url": "https://kanteiskill.com/"
+    "station": "CBC/TBS系全国28局",
+    "url": "https://kanteiskill.com/",
+    "start_date": "2026-09-27",
+    "source": "https://www.animatetimes.com/tag/details.php?id=5947"
   },
   {
     "title": "とある暗部の少女共棲（アイテム）",
-    "enabled": false,
-    "weekday": null,
-    "time": null,
-    "station": "未確認",
-    "url": "https://toaru-project.com/item/"
+    "enabled": true,
+    "weekday": 4,
+    "time": "24:30",
+    "station": "TOKYO MX・BS11",
+    "url": "https://toaru-project.com/item/",
+    "source": "https://www.animatetimes.com/tag/details.php?id=5947"
   },
   {
     "title": "ドラゴンボール超 ビルス",
-    "enabled": false,
-    "weekday": null,
+    "enabled": true,
+    "weekday": 6,
     "time": null,
-    "station": "未確認",
-    "url": "https://dragonball-super.com/"
+    "station": "フジテレビほか",
+    "url": "https://dragonball-super.com/",
+    "start_date": "2026-10-11",
+    "source": "https://www.animatetimes.com/tag/details.php?id=5947"
   },
   {
     "title": "冰剣の魔術師が世界を統べるⅡ",
-    "enabled": false,
-    "weekday": null,
+    "enabled": true,
+    "weekday": 3,
     "time": null,
-    "station": "未確認",
-    "url": "https://hyouken-anime.com/"
+    "station": "TBS・BS11",
+    "url": "https://hyouken-anime.com/",
+    "start_date": "2026-10-08",
+    "source": "https://www.animatetimes.com/tag/details.php?id=5947"
   },
   {
     "title": "マジカル★エクスプローラー",
-    "enabled": false,
-    "weekday": null,
+    "enabled": true,
+    "weekday": 5,
     "time": null,
-    "station": "未確認",
-    "url": "https://majieku.com/"
+    "station": "TOKYO MX・BS11ほか",
+    "url": "https://majieku.com/",
+    "start_date": "2026-10-03",
+    "source": "https://www.animatetimes.com/tag/details.php?id=5947"
   },
   {
     "title": "目覚めたら最強装備と宇宙船持ちだったので、一戸建て目指して傭兵として自由に生きたい",
-    "enabled": false,
-    "weekday": null,
+    "enabled": true,
+    "weekday": 6,
     "time": null,
-    "station": "未確認",
-    "url": "https://saikyosoubi.com/"
+    "station": "TOKYO MX・読売テレビ・中京テレビほか",
+    "url": "https://saikyosoubi.com/",
+    "start_date": "2026-10-04",
+    "source": "https://www.animatetimes.com/tag/details.php?id=5947"
   },
   {
     "title": "#ゾンビさがしてます",
-    "enabled": false,
-    "weekday": null,
+    "enabled": true,
+    "weekday": 5,
     "time": null,
-    "station": "未確認",
-    "url": ""
+    "station": "テレビ朝日系",
+    "url": "",
+    "start_date": "2026-10-03",
+    "source": "https://www.animatetimes.com/tag/details.php?id=5947"
   },
   {
     "title": "転生ゴブリンだけど質問ある？",
-    "enabled": false,
-    "weekday": null,
+    "enabled": true,
+    "weekday": 0,
     "time": null,
-    "station": "未確認",
-    "url": ""
+    "station": "TOKYO MX・BS11ほか",
+    "url": "",
+    "start_date": "2026-10-05",
+    "source": "https://www.animatetimes.com/tag/details.php?id=5947"
   }
 ]
