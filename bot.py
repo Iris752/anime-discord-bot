@@ -9,11 +9,14 @@ from zoneinfo import ZoneInfo
 JST = ZoneInfo('Asia/Tokyo')
 WEEKDAYS = ['月', '火', '水', '木', '金', '土', '日']
 
+
 def parse_time(value):
+    if value is None or value == "":
+        return 9999
+
     hour, minute = map(int, value.split(':'))
-    if not (0 <= hour <= 29 and 0 <= minute < 60):
-        raise ValueError(f'Invalid broadcast time: {value}')
     return hour * 60 + minute
+
 
 def main():
     webhook = os.environ.get('DISCORD_WEBHOOK_URL')
