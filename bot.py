@@ -23,7 +23,7 @@ def main():
     # A 24:30 broadcast on Monday is Tuesday 00:30, but belongs to Monday's lineup.
     with Path(__file__).with_name('anime.json').open(encoding='utf-8') as f:
         entries = json.load(f)
-    today = sorted((e for e in entries if e.get('enabled', False) and e.get('weekday') == now.weekday() and e.get('time')), key=lambda e: parse_time(e['time']))
+    today = sorted((e for e in entries if e.get('enabled', False) and (e.get('release_date') == now.date().isoformat() or (e.get('weekday') == now.weekday() and not e.get('release_date') and (not e.get('start_date') or e['start_date'] <= now.date().isoformat())))), key=lambda e: (e.get('time') is None, parse_time(e['time']) if e.get('time') else 9999))
     date_label = f'{now:%Y/%m/%d}（{WEEKDAYS[now.weekday()]}）'
     if today:
         lines = []
@@ -32,7 +32,7 @@ def main():
             title = str(e['title']).replace('@', '＠')
             station = str(e.get('station', '未設定')).replace('@', '＠')
             url = str(e.get('url', ''))
-            lines.append(f"**{e['time']}｜{title}**\n放送局・配信：{station}" + (f'\n{url}' if url.startswith('https://') else ''))
+            lines.append(f"**{e.get('time') or '時刻未確認'}｜{title}**\n放送局・配信：{station}" + (f'\n{url}' if url.startswith('https://') else ''))
         body = '\n\n'.join(lines)
     else:
         body = '本日登録されている放送予定はありません。'
