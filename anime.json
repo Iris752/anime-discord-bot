@@ -1,0 +1,194 @@
+[
+  {
+    "title": "アオのハコ Season2",
+    "enabled": true,
+    "weekday": 6,
+    "time": "16:30",
+    "station": "TBS系全国28局",
+    "url": "https://aonohako-anime.com/"
+  },
+  {
+    "title": "貸した魔力は【リボ払い】で強制徴収",
+    "enabled": true,
+    "weekday": 0,
+    "time": "20:30",
+    "station": "AT-X",
+    "url": "https://revo-anime.com/"
+  },
+  {
+    "title": "帰還者の魔法は特別です 第二期",
+    "enabled": true,
+    "weekday": 2,
+    "time": "24:45",
+    "station": "フジテレビ",
+    "url": "https://returners-magic.com/"
+  },
+  {
+    "title": "凶乱令嬢ニア・リストン 病弱令嬢に転生した神殺しの武人の華麗なる無双録",
+    "enabled": false,
+    "weekday": null,
+    "time": null,
+    "station": "未確認",
+    "url": "https://kyoranreijo-pr.com/"
+  },
+  {
+    "title": "ごーすと・みーつ・ぎゃる！",
+    "enabled": false,
+    "weekday": null,
+    "time": null,
+    "station": "未確認",
+    "url": "https://cf-vanguard.com/anime-ghost_meets_gal/"
+  },
+  {
+    "title": "サイバーパンク：エッジランナーズ2",
+    "enabled": false,
+    "weekday": null,
+    "time": null,
+    "station": "未確認",
+    "url": "https://www.cyberpunk.net/ja/edgerunners2"
+  },
+  {
+    "title": "佐々木とピーちゃん Season2",
+    "enabled": false,
+    "weekday": null,
+    "time": null,
+    "station": "未確認",
+    "url": "https://sasapi-anime.com/"
+  },
+  {
+    "title": "塩対応の佐藤さんが俺にだけ甘い",
+    "enabled": false,
+    "weekday": null,
+    "time": null,
+    "station": "未確認",
+    "url": "https://shioama-anime.com/"
+  },
+  {
+    "title": "死亡遊戯で飯を食う。44:CLOUDY BEACH",
+    "enabled": false,
+    "weekday": null,
+    "time": null,
+    "station": "未確認",
+    "url": "https://shiboyugi-anime.com/"
+  },
+  {
+    "title": "信者ゼロの女神サマと始める異世界攻略",
+    "enabled": false,
+    "weekday": null,
+    "time": null,
+    "station": "未確認",
+    "url": "https://zero-believers-anime.com/"
+  },
+  {
+    "title": "生徒会にも穴はある！",
+    "enabled": false,
+    "weekday": null,
+    "time": null,
+    "station": "未確認",
+    "url": "https://nama-anaru.com/"
+  },
+  {
+    "title": "探偵はもう、死んでいる。Season2",
+    "enabled": false,
+    "weekday": null,
+    "time": null,
+    "station": "未確認",
+    "url": "https://tanmoshi-anime.jp/Season2/"
+  },
+  {
+    "title": "千歳くんはラムネ瓶のなか 第2クール",
+    "enabled": true,
+    "weekday": 1,
+    "time": "23:00",
+    "station": "AT-X",
+    "url": "https://chiramune.com/"
+  },
+  {
+    "title": "追放されたチート付与魔術師は気ままなセカンドライフを謳歌する。",
+    "enabled": false,
+    "weekday": null,
+    "time": null,
+    "station": "未確認",
+    "url": "https://sh-anime.shochiku.co.jp/chiifuyo-anime/"
+  },
+  {
+    "title": "テムパル～アイテムの力～",
+    "enabled": false,
+    "weekday": null,
+    "time": null,
+    "station": "未確認",
+    "url": "https://tempal-anime.net/"
+  },
+  {
+    "title": "デモンズ・クレスト",
+    "enabled": false,
+    "weekday": null,
+    "time": null,
+    "station": "未確認",
+    "url": "https://demonscrest-anime.com/"
+  },
+  {
+    "title": "転生貴族、鑑定スキルで成り上がる 第3期",
+    "enabled": false,
+    "weekday": null,
+    "time": null,
+    "station": "未確認",
+    "url": "https://kanteiskill.com/"
+  },
+  {
+    "title": "とある暗部の少女共棲（アイテム）",
+    "enabled": false,
+    "weekday": null,
+    "time": null,
+    "station": "未確認",
+    "url": "https://toaru-project.com/item/"
+  },
+  {
+    "title": "ドラゴンボール超 ビルス",
+    "enabled": false,
+    "weekday": null,
+    "time": null,
+    "station": "未確認",
+    "url": "https://dragonball-super.com/"
+  },
+  {
+    "title": "冰剣の魔術師が世界を統べるⅡ",
+    "enabled": false,
+    "weekday": null,
+    "time": null,
+    "station": "未確認",
+    "url": "https://hyouken-anime.com/"
+  },
+  {
+    "title": "マジカル★エクスプローラー",
+    "enabled": false,
+    "weekday": null,
+    "time": null,
+    "station": "未確認",
+    "url": "https://majieku.com/"
+  },
+  {
+    "title": "目覚めたら最強装備と宇宙船持ちだったので、一戸建て目指して傭兵として自由に生きたい",
+    "enabled": false,
+    "weekday": null,
+    "time": null,
+    "station": "未確認",
+    "url": "https://saikyosoubi.com/"
+  },
+  {
+    "title": "#ゾンビさがしてます",
+    "enabled": false,
+    "weekday": null,
+    "time": null,
+    "station": "未確認",
+    "url": ""
+  },
+  {
+    "title": "転生ゴブリンだけど質問ある？",
+    "enabled": false,
+    "weekday": null,
+    "time": null,
+    "station": "未確認",
+    "url": ""
+  }
+]
